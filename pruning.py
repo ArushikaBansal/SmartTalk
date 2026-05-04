@@ -22,7 +22,7 @@ from trl import SFTTrainer, SFTConfig
 # ============================================================
 # Config
 # ============================================================
-MODEL_NAME = "Efficient-Large-Model/gemma-2-2b-it"
+MODEL_NAME = "google/gemma-2-9b-it"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CHECKPOINT_DIR = os.path.join(SCRIPT_DIR, "checkpoints", "gemma", "final")
 PRUNED_DIR = os.path.join(SCRIPT_DIR, "checkpoints", "gemma_pruned")
