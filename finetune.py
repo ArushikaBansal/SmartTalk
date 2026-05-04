@@ -20,7 +20,7 @@ from trl import SFTTrainer, SFTConfig
 # ============================================================
 # Configuration
 # ============================================================
-MODEL_NAME = "Efficient-Large-Model/gemma-2-2b-it"  # ungated mirror of google/gemma-2-2b-it
+MODEL_NAME = "Efficient-Large-Model/gemma-2-2b-it"  
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "checkpoints", "gemma")
 DATA_DIR = os.path.join(SCRIPT_DIR, "data")
@@ -85,7 +85,6 @@ def main():
     )
 
     # 4. Dataset
-    # Gemma 2 does NOT support a "system" role in its chat template.
     # We merge the system prompt into the first user message.
     def merge_system_into_user(example):
         messages = example["messages"]
