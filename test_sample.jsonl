@@ -1,0 +1,200 @@
+{"input": "Hey home, Hey home, turn on the fan in the living_room. & adjust the ac to 22°C in the bedroom please.", "output": {"bedroom": {"ac": "22°C"}, "living_room": {"fan": "on"}}}
+{"input": "Can you in the living_room, set music to loud and in the balcony, open the blinds and switch the living_room lights to bright and Kindly turn off the lights in the dining_room..", "output": {"balcony": {"blinds": "open"}, "dining_room": {"lights": "off"}, "living_room": {"lights": "bright", "music_system": "loud"}}}
+{"input": "Kindly turn off the fan in the dining_room.", "output": {"dining_room": {"fan": "off"}}}
+{"input": "Hey home, deactivate the tv in the hall & turn off the lights in the bathroom & I want the exhaust in the kitchen off.", "output": {"bathroom": {"lights": "off"}, "hall": {"tv": "off"}, "kitchen": {"exhaust": "off"}}}
+{"input": "power on the computer in the study_room, then Please open the bedroom blinds., then I want dim lights in the bedroom.", "output": {"bedroom": {"blinds": "open", "lights": "dim"}, "study_room": {"computer": "on"}}}
+{"input": "I want to turn on the ac to 19°C in the dining_room, also in the dining_room turn on the fan please.", "output": {"dining_room": {"ac": "19°C", "fan": "on"}}}
+{"input": "Kindly stop the exhaust in the bathroom and power on the fan in the kitchen and Please close the bedroom blinds.", "output": {"bathroom": {"exhaust": "off"}, "bedroom": {"blinds": "close"}, "kitchen": {"fan": "on"}}}
+{"input": "Going out, shut everything down.", "output": {"balcony": {"lights": "off"}, "bathroom": {"exhaust": "off", "geyser": "off", "lights": "off"}, "bedroom": {"ac": "off", "fan": "off", "lights": "off"}, "dining_room": {"ac": "off", "fan": "off", "lights": "off"}, "hall": {"lights": "off", "tv": "off"}, "kitchen": {"exhaust": "off", "fan": "off", "lights": "off"}, "living_room": {"fan": "off", "lights": "off", "music_system": "off", "tv": "off"}, "study_room": {"computer": "off", "fan": "off", "lights": "off"}}}
+{"input": "Hey, make the hall lights warm.", "output": {"hall": {"lights": "warm"}}}
+{"input": "Hey, Kindly turn off the lights in the balcony.; start the exhaust in the bathroom", "output": {"balcony": {"lights": "off"}, "bathroom": {"exhaust": "on"}}}
+{"input": "Kitchen setup for cooking.", "output": {"kitchen": {"exhaust": "on", "fan": "on", "lights": "bright"}}}
+{"input": "open the blinds in the balcony, then deactivate the music_system in the living_room, then turn off the lights in the balcony now.", "output": {"balcony": {"blinds": "open", "lights": "off"}, "living_room": {"music_system": "off"}}}
+{"input": "Activate WFH mode.", "output": {"dining_room": {"ac": "23°C"}, "kitchen": {"lights": "on"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "I want to activate the fan in the bedroom & fire up the fan in the kitchen please. now.", "output": {"bedroom": {"fan": "on"}, "kitchen": {"fan": "on"}}}
+{"input": "Hey, Hey, turn off the ac in the bedroom please. & turn on the tv in the living_room please.", "output": {"bedroom": {"ac": "off"}, "living_room": {"tv": "on"}}}
+{"input": "Please Set the geyser to on in the bathroom.; adjust the lights to warm in the living_room; Kindly turn on the fan in the living_room., thanks.", "output": {"bathroom": {"geyser": "on"}, "living_room": {"fan": "on", "lights": "warm"}}}
+{"input": "power on the exhaust in the kitchen", "output": {"kitchen": {"exhaust": "on"}}}
+{"input": "Could you open the blinds in the balcony?", "output": {"balcony": {"blinds": "open"}}}
+{"input": "in the bedroom, switch off the fan", "output": {"bedroom": {"fan": "off"}}}
+{"input": "Please switch off the lights in the kitchen & in the bathroom, switch off the geyser.", "output": {"bathroom": {"geyser": "off"}, "kitchen": {"lights": "off"}}}
+{"input": "set the music_system to relax in the living_room, also in the balcony, set lights to dim, also adjust the ac to 25°C in the bedroom, also start the tv in the living_room, thanks.", "output": {"balcony": {"lights": "dim"}, "bedroom": {"ac": "25°C"}, "living_room": {"music_system": "relax", "tv": "on"}}}
+{"input": "power off the lights in the living_room", "output": {"living_room": {"lights": "off"}}}
+{"input": "I need to Please turn on the fan in the living_room., also in the balcony, close the blinds please.", "output": {"balcony": {"blinds": "close"}, "living_room": {"fan": "on"}}}
+{"input": "Hey home, open the blinds in the balcony & Please set hall lights to dim..", "output": {"balcony": {"blinds": "open"}, "hall": {"lights": "dim"}}}
+{"input": "I want to fire up the fan in the kitchen, also set the lights to warm in the hall, also turn on the fan in the study_room thanks.", "output": {"hall": {"lights": "warm"}, "kitchen": {"fan": "on"}, "study_room": {"fan": "on"}}}
+{"input": "I want the tv in the hall on.", "output": {"hall": {"tv": "on"}}}
+{"input": "switch the hall lights to warm", "output": {"hall": {"lights": "warm"}}}
+{"input": "Set up movie mode in the living room.", "output": {"hall": {"lights": "off"}, "living_room": {"fan": "on", "lights": "dim", "tv": "on"}}}
+{"input": "Set the fan to off in the bedroom.", "output": {"bedroom": {"fan": "off"}}}
+{"input": "Set the dining room for dinner.", "output": {"dining_room": {"ac": "23°C", "fan": "on", "lights": "warm"}, "kitchen": {"exhaust": "on", "lights": "on"}, "living_room": {"music_system": "soft"}}}
+{"input": "Hey, working from home.", "output": {"dining_room": {"ac": "23°C"}, "kitchen": {"lights": "on"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "Set everything for party.", "output": {"dining_room": {"lights": "bright"}, "hall": {"lights": "bright"}, "kitchen": {"lights": "on"}, "living_room": {"fan": "on", "lights": "bright", "music_system": "party", "tv": "on"}}}
+{"input": "I want to Could you open the blinds in the balcony?, also Hey, make the kitchen lights bright., thanks.", "output": {"balcony": {"blinds": "open"}, "kitchen": {"lights": "bright"}}}
+{"input": "Please in the hall turn off the tv; Could you set the lights in the bathroom to warm?", "output": {"bathroom": {"lights": "warm"}, "hall": {"tv": "off"}}}
+{"input": "Start cooking mode.", "output": {"kitchen": {"exhaust": "on", "fan": "on", "lights": "bright"}}}
+{"input": "Unwind mode on.", "output": {"bedroom": {"ac": "23°C", "lights": "dim"}, "living_room": {"fan": "on", "lights": "warm", "music_system": "relax"}}}
+{"input": "Hey, Please set dining_room lights to bright. & disable the fan in the kitchen & in the living_room, switch on the fan & switch the kitchen lights to dim", "output": {"dining_room": {"lights": "bright"}, "kitchen": {"fan": "off", "lights": "dim"}, "living_room": {"fan": "on"}}}
+{"input": "Please Could you turn off the fan in the bedroom?, then Kindly turn off the ac in the bedroom..", "output": {"bedroom": {"ac": "off", "fan": "off"}}}
+{"input": "Hey, turn on the lights in the bedroom please.", "output": {"bedroom": {"lights": "on"}}}
+{"input": "start the fan in the kitchen; Hey, turn off the lights in the bathroom please.", "output": {"bathroom": {"lights": "off"}, "kitchen": {"fan": "on"}}}
+{"input": "Please shut off the lights in the bedroom and Set the fan to on in the dining_room. and disable the lights in the hall and I want the fan in the study_room on. now.", "output": {"bedroom": {"lights": "off"}, "dining_room": {"fan": "on"}, "hall": {"lights": "off"}, "study_room": {"fan": "on"}}}
+{"input": "I need to Could you set the lights in the balcony to dim?, then Please turn on the geyser in the bathroom.", "output": {"balcony": {"lights": "dim"}, "bathroom": {"geyser": "on"}}}
+{"input": "Can you set the lights to warm in the study_room & Kindly turn off the music_system in the living_room. & I want the fan in the dining_room off. please!", "output": {"dining_room": {"fan": "off"}, "living_room": {"music_system": "off"}, "study_room": {"lights": "warm"}}}
+{"input": "Movie mode please.", "output": {"hall": {"lights": "off"}, "living_room": {"fan": "on", "lights": "dim", "tv": "on"}}}
+{"input": "Please set the ac to 18°C in the dining_room.", "output": {"dining_room": {"ac": "18°C"}}}
+{"input": "I want to Set the exhaust to on in the kitchen. and Hey home, turn on the computer in the study_room..", "output": {"kitchen": {"exhaust": "on"}, "study_room": {"computer": "on"}}}
+{"input": "start the tv in the living_room", "output": {"living_room": {"tv": "on"}}}
+{"input": "Set the house for relaxing.", "output": {"bedroom": {"ac": "23°C", "lights": "dim"}, "living_room": {"fan": "on", "lights": "warm", "music_system": "relax"}}}
+{"input": "power off the geyser in the bathroom", "output": {"bathroom": {"geyser": "off"}}}
+{"input": "Hey, I want the lights in the study_room off., then fire up the exhaust in the kitchen.", "output": {"kitchen": {"exhaust": "on"}, "study_room": {"lights": "off"}}}
+{"input": "Hey, Hey home, turn off the tv in the hall. and Kindly turn off the lights in the balcony. now.", "output": {"balcony": {"lights": "off"}, "hall": {"tv": "off"}}}
+{"input": "Can you Please open the balcony blinds., also in the bathroom turn on the geyser, thanks.", "output": {"balcony": {"blinds": "open"}, "bathroom": {"geyser": "on"}}}
+{"input": "Time to unwind.", "output": {"bedroom": {"ac": "23°C", "lights": "dim"}, "living_room": {"fan": "on", "lights": "warm", "music_system": "relax"}}}
+{"input": "Hey home, in the bedroom, set ac to 21°C and switch the bedroom lights to warm and Could you put relax music on in the living_room? thanks.", "output": {"bedroom": {"ac": "21°C", "lights": "warm"}, "living_room": {"music_system": "relax"}}}
+{"input": "Hey home, enable the geyser in the bathroom and in the bedroom, close the blinds", "output": {"bathroom": {"geyser": "on"}, "bedroom": {"blinds": "close"}}}
+{"input": "deactivate the geyser in the bathroom", "output": {"bathroom": {"geyser": "off"}}}
+{"input": "fire up the tv in the hall", "output": {"hall": {"tv": "on"}}}
+{"input": "Time to sleep, goodnight mode please.", "output": {"bedroom": {"ac": "22°C", "blinds": "close", "fan": "on", "lights": "off"}, "hall": {"lights": "off"}, "kitchen": {"lights": "off"}, "living_room": {"lights": "off", "tv": "off"}}}
+{"input": "I want to Please set balcony lights to dim. & open the blinds in the balcony & Kindly turn on the geyser in the bathroom..", "output": {"balcony": {"blinds": "open", "lights": "dim"}, "bathroom": {"geyser": "on"}}}
+{"input": "Kindly turn the lights to dim in the balcony, then start the exhaust in the kitchen please. now.", "output": {"balcony": {"lights": "dim"}, "kitchen": {"exhaust": "on"}}}
+{"input": "Night mode on please.", "output": {"bedroom": {"ac": "22°C", "blinds": "close", "fan": "on", "lights": "off"}, "hall": {"lights": "off"}, "kitchen": {"lights": "off"}, "living_room": {"lights": "off", "tv": "off"}}}
+{"input": "Kindly turn on the fan in the bedroom, also in the kitchen turn off the lights, also Please set living_room lights to warm., also switch off the fan in the kitchen now.", "output": {"bedroom": {"fan": "on"}, "kitchen": {"fan": "off", "lights": "off"}, "living_room": {"lights": "warm"}}}
+{"input": "Could you Could you turn off the lights in the dining_room? and enable the tv in the hall please.", "output": {"dining_room": {"lights": "off"}, "hall": {"tv": "on"}}}
+{"input": "Hey, make the hall lights warm. and Could you close the blinds in the balcony? and in the living_room turn on the lights please!", "output": {"balcony": {"blinds": "close"}, "hall": {"lights": "warm"}, "living_room": {"lights": "on"}}}
+{"input": "Study mode please.", "output": {"bedroom": {"lights": "off"}, "living_room": {"music_system": "off", "tv": "off"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "Working from home today.", "output": {"dining_room": {"ac": "23°C"}, "kitchen": {"lights": "on"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "fire up the fan in the bedroom", "output": {"bedroom": {"fan": "on"}}}
+{"input": "Could you I want the lights in the dining_room on. & Hey, make the balcony lights dim. & power on the geyser in the bathroom.", "output": {"balcony": {"lights": "dim"}, "bathroom": {"geyser": "on"}, "dining_room": {"lights": "on"}}}
+{"input": "power off the fan in the dining_room", "output": {"dining_room": {"fan": "off"}}}
+{"input": "set the lights to warm in the hall, then Please set balcony lights to dim., then Can you activate the fan in the living_room?.", "output": {"balcony": {"lights": "dim"}, "hall": {"lights": "warm"}, "living_room": {"fan": "on"}}}
+{"input": "Could you Could you put party music on in the living_room?; I want the fan in the living_room on. please. now.", "output": {"living_room": {"fan": "on", "music_system": "party"}}}
+{"input": "Set up work from home mode.", "output": {"dining_room": {"ac": "23°C"}, "kitchen": {"lights": "on"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "fire up the fan in the study_room", "output": {"study_room": {"fan": "on"}}}
+{"input": "start the computer in the study_room and Set the fan to on in the living_room., thanks.", "output": {"living_room": {"fan": "on"}, "study_room": {"computer": "on"}}}
+{"input": "I want dim lights in the bathroom.", "output": {"bathroom": {"lights": "dim"}}}
+{"input": "turn the lights to dim in the dining_room", "output": {"dining_room": {"lights": "dim"}}}
+{"input": "Could you Hey home, turn on the exhaust in the bathroom., then set the ac to 23°C in the dining_room thanks.", "output": {"bathroom": {"exhaust": "on"}, "dining_room": {"ac": "23°C"}}}
+{"input": "Hey, disable the ac in the dining_room and in the living_room, switch on the fan please. now.", "output": {"dining_room": {"ac": "off"}, "living_room": {"fan": "on"}}}
+{"input": "Can you in the bathroom, switch on the exhaust; Set the exhaust to on in the kitchen.; Hey, turn on the fan in the living_room please. please. now.", "output": {"bathroom": {"exhaust": "on"}, "kitchen": {"exhaust": "on"}, "living_room": {"fan": "on"}}}
+{"input": "I want to Can you activate the computer in the study_room? and Hey, make the living_room lights dim. and activate the fan in the bedroom and start the fan in the dining_room please.", "output": {"bedroom": {"fan": "on"}, "dining_room": {"fan": "on"}, "living_room": {"lights": "dim"}, "study_room": {"computer": "on"}}}
+{"input": "open the blinds in the balcony", "output": {"balcony": {"blinds": "open"}}}
+{"input": "Please turn off the lights in the balcony.", "output": {"balcony": {"lights": "off"}}}
+{"input": "Hey, make the study_room lights bright., then open the blinds in the balcony now.", "output": {"balcony": {"blinds": "open"}, "study_room": {"lights": "bright"}}}
+{"input": "Could you open the blinds in the balcony, then Set the fan to off in the dining_room. thanks.", "output": {"balcony": {"blinds": "open"}, "dining_room": {"fan": "off"}}}
+{"input": "Hey home, turn the lights to bright in the kitchen, then Kindly turn off the geyser in the bathroom. please. now.", "output": {"bathroom": {"geyser": "off"}, "kitchen": {"lights": "bright"}}}
+{"input": "Hey home, turn on the ac to 18°C in the bedroom, also adjust the lights to bright in the dining_room, also set the music_system to loud in the living_room, also I want dim lights in the hall.", "output": {"bedroom": {"ac": "18°C"}, "dining_room": {"lights": "bright"}, "hall": {"lights": "dim"}, "living_room": {"music_system": "loud"}}}
+{"input": "adjust the ac to 23°C in the bedroom", "output": {"bedroom": {"ac": "23°C"}}}
+{"input": "I want to Hey home, turn on the tv in the living_room. and adjust the lights to dim in the hall", "output": {"hall": {"lights": "dim"}, "living_room": {"tv": "on"}}}
+{"input": "Hey home, turn off the exhaust in the bathroom.", "output": {"bathroom": {"exhaust": "off"}}}
+{"input": "Set everything for sleep.", "output": {"bedroom": {"ac": "22°C", "blinds": "close", "fan": "on", "lights": "off"}, "hall": {"lights": "off"}, "kitchen": {"lights": "off"}, "living_room": {"lights": "off", "tv": "off"}}}
+{"input": "adjust the lights to bright in the bedroom", "output": {"bedroom": {"lights": "bright"}}}
+{"input": "Time to unwind.", "output": {"bedroom": {"ac": "23°C", "lights": "dim"}, "living_room": {"fan": "on", "lights": "warm", "music_system": "relax"}}}
+{"input": "switch the balcony lights to bright", "output": {"balcony": {"lights": "bright"}}}
+{"input": "fire up the tv in the hall", "output": {"hall": {"tv": "on"}}}
+{"input": "switch off the lights in the bathroom", "output": {"bathroom": {"lights": "off"}}}
+{"input": "Can you I want the ac at 24°C in the dining_room.; Hey, close the blinds in the balcony please..", "output": {"balcony": {"blinds": "close"}, "dining_room": {"ac": "24°C"}}}
+{"input": "I want to Could you turn on the tv in the hall? & I want bright lights in the balcony. & switch on the exhaust in the bathroom", "output": {"balcony": {"lights": "bright"}, "bathroom": {"exhaust": "on"}, "hall": {"tv": "on"}}}
+{"input": "set the lights to dim in the balcony", "output": {"balcony": {"lights": "dim"}}}
+{"input": "Set the tv to off in the living_room.", "output": {"living_room": {"tv": "off"}}}
+{"input": "Set the house for relaxing.", "output": {"bedroom": {"ac": "23°C", "lights": "dim"}, "living_room": {"fan": "on", "lights": "warm", "music_system": "relax"}}}
+{"input": "Kindly turn off the fan in the dining_room.", "output": {"dining_room": {"fan": "off"}}}
+{"input": "Hey home, in the living_room, switch on the tv, also in the study_room turn off the fan please.", "output": {"living_room": {"tv": "on"}, "study_room": {"fan": "off"}}}
+{"input": "in the living_room turn off the lights", "output": {"living_room": {"lights": "off"}}}
+{"input": "Please turn on the exhaust in the bathroom.", "output": {"bathroom": {"exhaust": "on"}}}
+{"input": "I want to I want the tv in the hall off., also Hey, set the dining_room ac to 25°C. now.", "output": {"dining_room": {"ac": "25°C"}, "hall": {"tv": "off"}}}
+{"input": "set the lights to dim in the bathroom, also Please open the balcony blinds., thanks.", "output": {"balcony": {"blinds": "open"}, "bathroom": {"lights": "dim"}}}
+{"input": "Could you turn on the fan in the living_room?", "output": {"living_room": {"fan": "on"}}}
+{"input": "Kindly Kindly turn off the lights in the bedroom. & Hey, turn on the exhaust in the kitchen please. please. now.", "output": {"bedroom": {"lights": "off"}, "kitchen": {"exhaust": "on"}}}
+{"input": "turn off the lights in the balcony", "output": {"balcony": {"lights": "off"}}}
+{"input": "fire up the fan in the dining_room", "output": {"dining_room": {"fan": "on"}}}
+{"input": "Kindly shut off the fan in the living_room and Please set the ac to 24°C in the dining_room., thanks.", "output": {"dining_room": {"ac": "24°C"}, "living_room": {"fan": "off"}}}
+{"input": "I need to Can you deactivate the fan in the kitchen?, also in the balcony, set lights to warm, also disable the tv in the hall", "output": {"balcony": {"lights": "warm"}, "hall": {"tv": "off"}, "kitchen": {"fan": "off"}}}
+{"input": "Hey, open the blinds in the balcony please.", "output": {"balcony": {"blinds": "open"}}}
+{"input": "turn the lights to warm in the bathroom & shut off the lights in the bedroom, thanks.", "output": {"bathroom": {"lights": "warm"}, "bedroom": {"lights": "off"}}}
+{"input": "Could you Please open the balcony blinds., then Could you set the ac in the bedroom to 25°C?, thanks.", "output": {"balcony": {"blinds": "open"}, "bedroom": {"ac": "25°C"}}}
+{"input": "I want to disable the tv in the hall, then turn off the computer in the study_room, then power off the lights in the kitchen, then power off the geyser in the bathroom", "output": {"bathroom": {"geyser": "off"}, "hall": {"tv": "off"}, "kitchen": {"lights": "off"}, "study_room": {"computer": "off"}}}
+{"input": "Please adjust the lights to bright in the balcony and Please open the balcony blinds..", "output": {"balcony": {"blinds": "open", "lights": "bright"}}}
+{"input": "Kindly Set the lights to off in the study_room. & deactivate the lights in the kitchen & Kindly turn on the computer in the study_room. please.", "output": {"kitchen": {"lights": "off"}, "study_room": {"computer": "on", "lights": "off"}}}
+{"input": "Please turn on the exhaust in the kitchen.", "output": {"kitchen": {"exhaust": "on"}}}
+{"input": "I need to switch on the fan in the study_room and switch the balcony lights to warm and Hey, make the study_room lights warm. and in the living_room turn on the fan please.", "output": {"balcony": {"lights": "warm"}, "living_room": {"fan": "on"}, "study_room": {"fan": "on", "lights": "warm"}}}
+{"input": "Please turn off the lights in the bedroom.", "output": {"bedroom": {"lights": "off"}}}
+{"input": "Can you stop the computer in the study_room & in the bedroom, open the blinds please!", "output": {"bedroom": {"blinds": "open"}, "study_room": {"computer": "off"}}}
+{"input": "Please open the balcony blinds.", "output": {"balcony": {"blinds": "open"}}}
+{"input": "I want to stop the geyser in the bathroom and switch the hall lights to bright and Hey home, turn off the lights in the living_room. and Set the lights to off in the study_room. please. now.", "output": {"bathroom": {"geyser": "off"}, "hall": {"lights": "bright"}, "living_room": {"lights": "off"}, "study_room": {"lights": "off"}}}
+{"input": "Hey, make the balcony lights dim., then Could you set the lights in the living_room to warm?, then Set the computer to off in the study_room. please!", "output": {"balcony": {"lights": "dim"}, "living_room": {"lights": "warm"}, "study_room": {"computer": "off"}}}
+{"input": "power on the tv in the living_room", "output": {"living_room": {"tv": "on"}}}
+{"input": "Can you deactivate the lights in the dining_room and Please set the ac to 24°C in the dining_room. please. now.", "output": {"dining_room": {"ac": "24°C", "lights": "off"}}}
+{"input": "Set up for a party.", "output": {"dining_room": {"lights": "bright"}, "hall": {"lights": "bright"}, "kitchen": {"lights": "on"}, "living_room": {"fan": "on", "lights": "bright", "music_system": "party", "tv": "on"}}}
+{"input": "Hey, turn on the tv in the hall please.", "output": {"hall": {"tv": "on"}}}
+{"input": "Please turn on the tv in the hall.", "output": {"hall": {"tv": "on"}}}
+{"input": "I want to Hey home, turn on the computer in the study_room. & in the bedroom, open the blinds please.", "output": {"bedroom": {"blinds": "open"}, "study_room": {"computer": "on"}}}
+{"input": "stop the lights in the balcony", "output": {"balcony": {"lights": "off"}}}
+{"input": "I need to play loud music in the living_room, then Hey, set the dining_room ac to 19°C. please. now.", "output": {"dining_room": {"ac": "19°C"}, "living_room": {"music_system": "loud"}}}
+{"input": "I want to adjust the lights to dim in the kitchen & Kindly turn on the geyser in the bathroom., thanks.", "output": {"bathroom": {"geyser": "on"}, "kitchen": {"lights": "dim"}}}
+{"input": "turn on the ac to 20°C in the dining_room", "output": {"dining_room": {"ac": "20°C"}}}
+{"input": "Hey home, power on the geyser in the bathroom and Could you turn off the lights in the kitchen?.", "output": {"bathroom": {"geyser": "on"}, "kitchen": {"lights": "off"}}}
+{"input": "in the hall, switch on the tv", "output": {"hall": {"tv": "on"}}}
+{"input": "Please in the bedroom, set lights to dim; Please set the ac to 21°C in the dining_room. please. now.", "output": {"bedroom": {"lights": "dim"}, "dining_room": {"ac": "21°C"}}}
+{"input": "I want the fan in the study_room on., also in the bedroom, open the blinds thanks.", "output": {"bedroom": {"blinds": "open"}, "study_room": {"fan": "on"}}}
+{"input": "Hey, Set the lights to off in the dining_room. and in the living_room, switch on the lights and switch off the fan in the bedroom and Please turn off the fan in the study_room. thanks.", "output": {"bedroom": {"fan": "off"}, "dining_room": {"lights": "off"}, "living_room": {"lights": "on"}, "study_room": {"fan": "off"}}}
+{"input": "Hey, open the blinds in the balcony please.", "output": {"balcony": {"blinds": "open"}}}
+{"input": "Set the lights to off in the living_room.", "output": {"living_room": {"lights": "off"}}}
+{"input": "I want the fan in the dining_room on.", "output": {"dining_room": {"fan": "on"}}}
+{"input": "I want the ac at 25°C in the dining_room.; in the study_room, switch on the fan please!", "output": {"dining_room": {"ac": "25°C"}, "study_room": {"fan": "on"}}}
+{"input": "Hey, open the blinds in the balcony please. and I want the fan in the kitchen on. thanks.", "output": {"balcony": {"blinds": "open"}, "kitchen": {"fan": "on"}}}
+{"input": "Can you in the kitchen, set lights to dim & I want dim lights in the dining_room. & Please set the ac to 25°C in the bedroom. please!", "output": {"bedroom": {"ac": "25°C"}, "dining_room": {"lights": "dim"}, "kitchen": {"lights": "dim"}}}
+{"input": "Hey home, turn on the lights in the kitchen, also in the dining_room, set ac to 25°C please.", "output": {"dining_room": {"ac": "25°C"}, "kitchen": {"lights": "on"}}}
+{"input": "Going to bed, goodnight.", "output": {"bedroom": {"ac": "22°C", "blinds": "close", "fan": "on", "lights": "off"}, "hall": {"lights": "off"}, "kitchen": {"lights": "off"}, "living_room": {"lights": "off", "tv": "off"}}}
+{"input": "Hey, make the dining_room lights warm.", "output": {"dining_room": {"lights": "warm"}}}
+{"input": "Could you adjust the lights to warm in the living_room, also adjust the ac to 18°C in the dining_room", "output": {"dining_room": {"ac": "18°C"}, "living_room": {"lights": "warm"}}}
+{"input": "Kindly turn off the geyser in the bathroom.", "output": {"bathroom": {"geyser": "off"}}}
+{"input": "Kindly I want the exhaust in the kitchen on., also Could you set the lights in the living_room to bright?, also Hey, turn on the geyser in the bathroom please. please!", "output": {"bathroom": {"geyser": "on"}, "kitchen": {"exhaust": "on"}, "living_room": {"lights": "bright"}}}
+{"input": "I need to turn the lights to bright in the kitchen; activate the exhaust in the bathroom; Please turn on the geyser in the bathroom., thanks.", "output": {"bathroom": {"exhaust": "on", "geyser": "on"}, "kitchen": {"lights": "bright"}}}
+{"input": "Please turn on the tv in the hall.", "output": {"hall": {"tv": "on"}}}
+{"input": "Kindly open the blinds in the balcony and set the lights to dim in the bedroom and switch off the lights in the living_room, thanks.", "output": {"balcony": {"blinds": "open"}, "bedroom": {"lights": "dim"}, "living_room": {"lights": "off"}}}
+{"input": "Please power off the exhaust in the bathroom and Please set study_room lights to warm. and Hey, set the dining_room ac to 18°C.", "output": {"bathroom": {"exhaust": "off"}, "dining_room": {"ac": "18°C"}, "study_room": {"lights": "warm"}}}
+{"input": "I want to deactivate the music_system in the living_room, also Set the tv to off in the hall., also Please set bedroom lights to dim., also Please turn on the fan in the living_room.", "output": {"bedroom": {"lights": "dim"}, "hall": {"tv": "off"}, "living_room": {"fan": "on", "music_system": "off"}}}
+{"input": "adjust the ac to 23°C in the dining_room", "output": {"dining_room": {"ac": "23°C"}}}
+{"input": "disable the music_system in the living_room", "output": {"living_room": {"music_system": "off"}}}
+{"input": "Hey, Could you set the lights in the balcony to warm?; Please set bathroom lights to warm.; in the bedroom, switch on the fan please.", "output": {"balcony": {"lights": "warm"}, "bathroom": {"lights": "warm"}, "bedroom": {"fan": "on"}}}
+{"input": "Set the tv to off in the hall.", "output": {"hall": {"tv": "off"}}}
+{"input": "Set up sleep mode please.", "output": {"bedroom": {"ac": "22°C", "blinds": "close", "fan": "on", "lights": "off"}, "hall": {"lights": "off"}, "kitchen": {"lights": "off"}, "living_room": {"lights": "off", "tv": "off"}}}
+{"input": "I want to power on the geyser in the bathroom; Kindly turn on the fan in the living_room.; Please close the balcony blinds.; in the kitchen, set lights to dim please.", "output": {"balcony": {"blinds": "close"}, "bathroom": {"geyser": "on"}, "kitchen": {"lights": "dim"}, "living_room": {"fan": "on"}}}
+{"input": "Kindly I want party music in the living_room. & set the ac to 22°C in the dining_room & in the study_room turn on the fan, thanks.", "output": {"dining_room": {"ac": "22°C"}, "living_room": {"music_system": "party"}, "study_room": {"fan": "on"}}}
+{"input": "Can you Please open the balcony blinds., also in the dining_room, set ac to 24°C, thanks.", "output": {"balcony": {"blinds": "open"}, "dining_room": {"ac": "24°C"}}}
+{"input": "Set up work from home mode.", "output": {"dining_room": {"ac": "23°C"}, "kitchen": {"lights": "on"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "Please switch the dining_room lights to dim, also Hey, turn off the lights in the balcony please., also Can you activate the exhaust in the bathroom? please.", "output": {"balcony": {"lights": "off"}, "bathroom": {"exhaust": "on"}, "dining_room": {"lights": "dim"}}}
+{"input": "Hey home, focus mode please.", "output": {"bedroom": {"lights": "off"}, "living_room": {"music_system": "off", "tv": "off"}, "study_room": {"computer": "on", "fan": "on", "lights": "bright"}}}
+{"input": "Please set hall lights to bright.", "output": {"hall": {"lights": "bright"}}}
+{"input": "Kindly turn on the ac to 24°C in the bedroom, also shut off the exhaust in the kitchen, also in the hall, set lights to warm, also shut off the exhaust in the bathroom thanks.", "output": {"bathroom": {"exhaust": "off"}, "bedroom": {"ac": "24°C"}, "hall": {"lights": "warm"}, "kitchen": {"exhaust": "off"}}}
+{"input": "Please turn off the tv in the hall.", "output": {"hall": {"tv": "off"}}}
+{"input": "start the fan in the bedroom", "output": {"bedroom": {"fan": "on"}}}
+{"input": "Set the dining room for dinner.", "output": {"dining_room": {"ac": "23°C", "fan": "on", "lights": "warm"}, "kitchen": {"exhaust": "on", "lights": "on"}, "living_room": {"music_system": "soft"}}}
+{"input": "Can you deactivate the ac in the bedroom?, also Set the fan to on in the study_room., also switch on the geyser in the bathroom now.", "output": {"bathroom": {"geyser": "on"}, "bedroom": {"ac": "off"}, "study_room": {"fan": "on"}}}
+{"input": "Set up morning mode.", "output": {"bathroom": {"geyser": "on", "lights": "on"}, "bedroom": {"blinds": "open", "fan": "off", "lights": "bright"}, "kitchen": {"exhaust": "on", "lights": "on"}}}
+{"input": "I want the tv in the living_room off. and Could you set the lights in the hall to dim? and switch off the fan in the dining_room and Could you turn on the tv in the hall? please.", "output": {"dining_room": {"fan": "off"}, "hall": {"lights": "dim", "tv": "on"}, "living_room": {"tv": "off"}}}
+{"input": "I want the lights in the study_room off.", "output": {"study_room": {"lights": "off"}}}
+{"input": "in the living_room turn on the tv", "output": {"living_room": {"tv": "on"}}}
+{"input": "adjust the lights to warm in the hall", "output": {"hall": {"lights": "warm"}}}
+{"input": "I need to Can you activate the lights in the hall?, then Can you deactivate the lights in the bathroom?", "output": {"bathroom": {"lights": "off"}, "hall": {"lights": "on"}}}
+{"input": "Hey home, turn on the fan in the kitchen.", "output": {"kitchen": {"fan": "on"}}}
+{"input": "switch on the lights in the bathroom", "output": {"bathroom": {"lights": "on"}}}
+{"input": "Can you deactivate the lights in the living_room?", "output": {"living_room": {"lights": "off"}}}
+{"input": "Hey, Can you activate the tv in the hall?, also in the dining_room, switch off the lights, also Hey, turn on the fan in the study_room please. please.", "output": {"dining_room": {"lights": "off"}, "hall": {"tv": "on"}, "study_room": {"fan": "on"}}}
+{"input": "Hey, make the hall lights warm., also Hey home, turn on the fan in the living_room., also switch on the geyser in the bathroom, also activate the tv in the living_room", "output": {"bathroom": {"geyser": "on"}, "hall": {"lights": "warm"}, "living_room": {"fan": "on", "tv": "on"}}}
+{"input": "in the hall, switch off the tv", "output": {"hall": {"tv": "off"}}}
+{"input": "deactivate the lights in the living_room", "output": {"living_room": {"lights": "off"}}}
+{"input": "in the kitchen turn off the exhaust & in the bathroom, switch on the geyser & turn on the ac to 22°C in the dining_room please!", "output": {"bathroom": {"geyser": "on"}, "dining_room": {"ac": "22°C"}, "kitchen": {"exhaust": "off"}}}
+{"input": "in the balcony, open the blinds", "output": {"balcony": {"blinds": "open"}}}
+{"input": "Kindly Could you set the ac in the bedroom to 19°C?, then turn on the tv in the living_room, then Could you open the blinds in the balcony? please.", "output": {"balcony": {"blinds": "open"}, "bedroom": {"ac": "19°C"}, "living_room": {"tv": "on"}}}
+{"input": "set the lights to dim in the bedroom", "output": {"bedroom": {"lights": "dim"}}}
+{"input": "Hey, Please open the balcony blinds. and turn on the fan in the dining_room and Hey, turn off the tv in the hall please. and in the bedroom turn off the ac now.", "output": {"balcony": {"blinds": "open"}, "bedroom": {"ac": "off"}, "dining_room": {"fan": "on"}, "hall": {"tv": "off"}}}
+{"input": "Could you shut off the lights in the balcony; power off the fan in the study_room, thanks.", "output": {"balcony": {"lights": "off"}, "study_room": {"fan": "off"}}}
+{"input": "Set the lights to off in the hall., also Hey, make the balcony lights bright., also Set the ac to off in the dining_room., thanks.", "output": {"balcony": {"lights": "bright"}, "dining_room": {"ac": "off"}, "hall": {"lights": "off"}}}
+{"input": "Set up away mode.", "output": {"balcony": {"lights": "off"}, "bathroom": {"exhaust": "off", "geyser": "off", "lights": "off"}, "bedroom": {"ac": "off", "fan": "off", "lights": "off"}, "dining_room": {"ac": "off", "fan": "off", "lights": "off"}, "hall": {"lights": "off", "tv": "off"}, "kitchen": {"exhaust": "off", "fan": "off", "lights": "off"}, "living_room": {"fan": "off", "lights": "off", "music_system": "off", "tv": "off"}, "study_room": {"computer": "off", "fan": "off", "lights": "off"}}}
+{"input": "Could you Hey, turn on the geyser in the bathroom please., then I want bright lights in the bathroom., then disable the exhaust in the bathroom please!", "output": {"bathroom": {"exhaust": "off", "geyser": "on", "lights": "bright"}}}
+{"input": "Hey home, morning routine please.", "output": {"bathroom": {"geyser": "on", "lights": "on"}, "bedroom": {"blinds": "open", "fan": "off", "lights": "bright"}, "kitchen": {"exhaust": "on", "lights": "on"}}}
+{"input": "set the lights to bright in the bathroom", "output": {"bathroom": {"lights": "bright"}}}
+{"input": "Hey home, activate the lights in the dining_room; Please close the bedroom blinds.; in the dining_room, set ac to 22°C.", "output": {"bedroom": {"blinds": "close"}, "dining_room": {"ac": "22°C", "lights": "on"}}}
+{"input": "Please power on the fan in the bedroom, then Could you set the lights in the kitchen to bright?, then I want the ac at 19°C in the dining_room. please.", "output": {"bedroom": {"fan": "on"}, "dining_room": {"ac": "19°C"}, "kitchen": {"lights": "bright"}}}
