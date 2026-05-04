@@ -76,7 +76,6 @@ def main():
 
     if local_rank == 0:
         print("=" * 60)
-        print("Pruning Gemma-2-2B Model")
         print(f"Pruning ratio: {args.prune_ratio}")
         print("=" * 60)
 
