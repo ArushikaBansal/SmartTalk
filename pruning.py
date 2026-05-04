@@ -1,5 +1,5 @@
 """
-Pruning Gemma-2-2B (LoRA finetuned) — Multi-GPU DDP
+Pruning 
 ==================================================
 Structured magnitude pruning on Linear layers.
 
