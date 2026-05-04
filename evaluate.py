@@ -1,12 +1,10 @@
 """
 Evaluation Script for Finetuned Smart Home Models
 ===================================================
-Evaluates finetuned LLaMA and Gemma models on the test set.
+Evaluates finetuned model on the test set.
 Metrics:
   - Exact JSON Match: output == expected (after normalization)
   - Valid JSON Rate: % of outputs that are valid JSON
-  - Room-level F1: precision/recall/F1 of predicted rooms
-  - Device-Value Accuracy: % of device-value pairs correctly predicted
 """
 
 import argparse
