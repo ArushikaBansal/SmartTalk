@@ -1,9 +1,9 @@
 """
-Finetuning Gemma-2-2B-IT on Smart Home Commands (Multi-GPU DDP)
+Finetuning sub-3B models on Smart Home Commands (Multi-GPU DDP)
 ================================================================
 Full-precision LoRA with DDP across 8 GPUs.
 
-Launch: accelerate launch --config_file accelerate_config.yaml finetune_gemma.py
+Launch: accelerate launch --config_file accelerate_config.yaml finetune.py
 """
 
 import argparse
